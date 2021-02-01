@@ -1,0 +1,4 @@
+baseURL = "https://dragobballanimequeweeply8.vercel.app"
+languageCode = "en-us"
+title = "Dragon Ball super"
+theme = "tale-hugo-master"
